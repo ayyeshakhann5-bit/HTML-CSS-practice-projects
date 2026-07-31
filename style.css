@@ -1,0 +1,52 @@
+  .p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .video{
+    font-weight: bold ;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+  }
+
+  .stats{
+    font-size: 14px;
+    color: grey;
+
+  }
+
+  .author{
+    font-size: 14px;
+    color: grey;
+
+    margin-bottom: 20px;
+  }
+
+  .text{
+    font-size: 14px;
+    width: 400px;
+    color: grey;
+    line-height: 20px;
+    margin-bottom: 50px;
+  }
+
+  .shop{
+    background-color: rgb(240, 114, 114);
+    font-size: 20px;
+   text-align: center;
+    color: white;
+    padding: 10px 20px;
+
+  }
+
+  .span{
+    margin-left: 12px;
+  }
+
+  .span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+  }
