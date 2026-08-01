@@ -1,0 +1,22 @@
+
+
+
+.request-button {
+  background-color:rgb(7, 8, 8);
+  color:white;
+  border:none;
+  border-radius:2px;
+  cursor:pointer;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 16px;
+  padding-top: 16px;
+
+}
+
+.request-button:hover{
+  opacity: 0.8;
+}
+.request-button:active{
+  opacity: 0.5;
+}
