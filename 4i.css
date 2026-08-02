@@ -1,0 +1,26 @@
+.back-button {
+   padding-top: 12px;
+   padding-bottom: 12px;
+   padding-left: 14px;
+   padding-right: 14px;
+   margin-right: 10px;
+   background-color: rgb(5, 84, 50);
+   color: rgb(246, 239, 239);
+   font-size: 16px;
+   font-weight: bold;
+   border:none;
+   cursor:pointer;
+   border-radius: 4px;
+   transform-origin: top left;
+   transition: transform 0.4s ease-in-out;
+   
+  }
+
+  .back-button:hover{
+    transform: scale(2.25);
+  }
+
+  .back-button:active{
+    opacity: 0.5;
+  }
+

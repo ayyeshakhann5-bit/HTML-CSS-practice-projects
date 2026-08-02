@@ -1,0 +1,15 @@
+.shadow {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.shadow:hover {
+  transform: translate(-10px, -10px);
+  box-shadow: 5px 5px 5px rgba(8, 6, 6, 0.5);
+}
